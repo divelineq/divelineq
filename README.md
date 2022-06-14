@@ -8,6 +8,5 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
 ![styled-components](https://img.shields.io/badge/-styledcomponents-000000?style=for-the-badge&logo=styled-components)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap)
-![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
-![git](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git)
+
 
