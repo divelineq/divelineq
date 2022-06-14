@@ -13,5 +13,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/divelineq)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=4682B4)](https://vk.com/reqote)
 [![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/divelineq)
-![gmail](https://img.shields.io/badge/-divelineq@gmail.com-000000?style=for-the-badge&logo=gmail)]
+![gmail](https://img.shields.io/badge/-divelineq@gmail.com-000000?style=for-the-badge&logo=gmail)
 
