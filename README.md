@@ -1,6 +1,6 @@
 ### Привет, я начинающий Frontend разработчик который стремится к вершинам этой прекрасной профессии 👋
 
-### Languages and Tools
+#### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![html5](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3)
@@ -9,7 +9,7 @@
 ![styled-components](https://img.shields.io/badge/-styledcomponents-000000?style=for-the-badge&logo=styled-components)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap)
 
-### My contacts
+#### My contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/divelineq)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=4682B4)](https://vk.com/reqote)
 [![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/divelineq)
