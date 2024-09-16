@@ -2,8 +2,6 @@
 
 
 
-### Привет, я начинающий Frontend разработчик который стремится к вершинам этой прекрасной профессии 👋
-
 #### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![html5](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
