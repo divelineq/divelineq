@@ -1,6 +1,3 @@
-![Header](https://github.com/divelineq/divelineq/blob/main/gif/0ebd2943582107.57f4d6d270801.gif?raw=true)
-
-
 
 #### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
